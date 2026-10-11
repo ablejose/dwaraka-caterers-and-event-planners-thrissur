@@ -1,0 +1,59 @@
+{
+  "slug": "dwaraka-caterers-and-event-planners-thrissur",
+  "name": "Dwaraka Caterers & Event Planners",
+  "shortName": "Dwaraka",
+  "descriptor": "Catering & Events",
+  "address": "Kodakara Vellikulangara Rd, Near check post, Kodakara, Keralam 680684",
+  "area": "Kodakara",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680684",
+  "geo": {
+    "lat": 10.3791491,
+    "lng": 76.31015169999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=2394608645249943623",
+  "phone": "+91 97441 94944",
+  "whatsapp": "919744194944",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 203,
+  "reviews": [
+    {
+      "name": "Renjith Asok",
+      "rating": 5,
+      "quote": "Food Everyone Loved One of the things we’ll always remember about our wedding reception is the amazing food served by Dwaraka Caterers. ❤️ We personally loved the food, but what made us even happier was hearing the same from so many of our guests. The compliments kept coming throughout the day — and that says everything!"
+    },
+    {
+      "name": "Abay Ashok",
+      "rating": 5,
+      "quote": "A heartfelt thanks to Akhil bro and the entire team for your outstanding coordination and creativity. Everything was organized so smoothly and elegantly. Thank you for turning our special occasion into a grand success,and all our guests enjoyed every moment.From decoration to coordination, everything was perfect."
+    },
+    {
+      "name": "ARUN VENUGOPAL",
+      "rating": 5,
+      "quote": "We had our wedding reception at Dwaraka, and I honestly can’t express how happy we are with the experience! They made our special day absolutely marvelous and far beyond our expectations. The food was truly out of the world — every guest personally appreciated the taste, quality, and presentation."
+    },
+    {
+      "name": "Athira Menon",
+      "rating": 5,
+      "quote": "It’s been almost a year since I chose Dwaraka Caterers & Event Planners for the most special week of my life, and I still feel so grateful for their incredible support. From my engagement through the henna/sangeet nights, wedding eve, and the wedding day itself, Akhil and the team were with me every step of the way."
+    },
+    {
+      "name": "Athul K.S",
+      "rating": 5,
+      "quote": "We had our wedding reception on 22nd August, and we are extremely happy with how beautifully everything was organised by Dwaraka Event & Caterers. From the arrangements and coordination to the overall execution, the team handled everything so professionally and seamlessly."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://dwaraka-caterers-and-event-planners.vercel.app"
+}
